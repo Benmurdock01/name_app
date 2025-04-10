@@ -31,7 +31,7 @@ def load_name_data():
 df = load_name_data()
 
 #SIDEBAR WIDGETS
-st.title('Social Security National Names Analysis')
+st.title('National Names Grapher')
 
 
 st.sidebar.title("Filters")
