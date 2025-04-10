@@ -1,7 +1,6 @@
-pandas
-zipfile
-plotly 
-matplotlib 
-seaborn 
-requests
 streamlit
+pandas
+plotly
+matplotlib
+seaborn
+requests
